@@ -50,7 +50,7 @@
 ## 📂 ফাইল স্ট্রাকচার (Structure)
 
 ```bash
-📦mrfbcrete
+📦Ws_Checker
  ┣ 📂public/               # ফ্রন্টএন্ড ফাইল (HTML, CSS, JS)
  ┃ ┣ 📜index.html
  ┃ ┣ 📜pair.html
