@@ -123,15 +123,23 @@ node index.js
 ## 👨‍💻 ডেভেলপার পরিচিতি (Developer)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Name-Sadhan_Chakma-0A66C2?style=flat&logo=github&logoColor=white" /> <br />
-  <img src="https://img.shields.io/badge/Role-Bot_Developer_%26_Technologist-FF6F00?style=flat&logo=code&logoColor=white" /> <br />
-  <img src="https://img.shields.io/badge/Telegram-@Sadhan_chakma-26A5E4?style=flat&logo=telegram&logoColor=white" /> <br />
-  <img src="https://img.shields.io/badge/GitHub-Sadhan_Chakma-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Name-Sadhan_Chakma-0A66C2?style=for-the-badge&logo=github&logoColor=white" /> <br />
+  <img src="https://img.shields.io/badge/Role-Bot_Developer_%26_Technologist-FF6F00?style=for-the-badge&logo=code&logoColor=white" /> <br />
+  <img src="https://img.shields.io/badge/Telegram-@Sadhan_chakma-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> <br />
+  <a href="https://github.com/Soureahchakma">
+    <img src="https://img.shields.io/badge/GitHub-Soureahchakma-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> <br />
+  <a href="https://t.me/Flask_Prime">
+    <img src="https://img.shields.io/badge/Telegram_Channel-@Flask_Prime-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a> <br />
+  <a href="https://t.me/WS_CheckerrBot">
+    <img src="https://img.shields.io/badge/Demo_Bot-@WS_CheckerrBot-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by Sadhan Chakma</b> <br />
+  <b>Made with ❤️ by Sadhan</b> <br />
   <sub>© 2026 Ws_Checker | All Rights Reserved</sub>
 </p>
